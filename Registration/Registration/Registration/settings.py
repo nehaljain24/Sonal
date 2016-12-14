@@ -78,13 +78,13 @@ DATABASES = {
     'default': {
          'ENGINE': 'django.db.backends.mysql',
 
-        'NAME': 'Mydb80',
+        'NAME': 'acsm_8ff21e3aaf6aa79',
 
-        'USER': 'root',
+        'USER': 'bc773bf9bd4937',
 
-        'PASSWORD': 'sonal',
+        'PASSWORD': 'e5c592d0',
 
-        'HOST': 'localhost',
+        'HOST': 'us-cdbr-azure-east-c.cloudapp.net',
 
         'PORT': '3306', 
     }
